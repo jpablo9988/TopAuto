@@ -1,6 +1,6 @@
 # TopAuto
-## Introduccion proyecto:
-
+## Introducción proyecto:
+TopAuto es un sistema de reseñas y aplicación web que ofrece a los usuarios respuestas ante las innumerables dudas que se tengan sobre los vehículos terrestres. La plataforma online brinda espacios de discución dónde la gente interesada en un vehículo en particular puede resolver sus dudas (Q&A y forums). Además de ser un espacio online donde los futuros compradores de vehículos pueden mirar reseñas basadas en calificaciones reales, los entusiastas de los automoviles pueden consultar la enciclopedia automotríz mas completa de internet: Desde modelos antiguos y ediciones especiales de vehículos, TopAuto promete ofrecer espesificaciones completas e imagenes de calidad.  
 ## Presentación del grupo:
 ### Cristobal Castrillón
 
@@ -14,8 +14,8 @@
    Lenguaje favorito: C#
    
    Proyectos independientes realizados: 
-   - aplicación movil para rutinas de entrenamiento
-   - juego plataformero basico en 2D
+   - Aplicación móvil para rutinas de entrenamiento
+   - Juego plataformero basico en 2D
    - Bot de Instagram personal con Selenium e InstaPy
 ### Daniel Alejandro Millan
 
