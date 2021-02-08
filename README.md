@@ -2,10 +2,24 @@
 ## Introduccion proyecto:
 
 ## Presentación del grupo:
-### persona 1
-### persona 2
-### persona 3
-### persona 4
-### persona 5
-### persona 6
-### persona 7
+### Cristobal Castrillón
+
+  Mini bigrafia
+### Daniel Ricardo Ramirez
+
+   Mini bigrafia
+### Daniel Alejandro Millan
+
+  Mini bigrafia
+### Juan Pablo Amorocho
+
+  Mini bigrafia
+### Manuel Alejandro Rios
+
+  Mini bigrafia
+### Richard Fonseca
+
+  Mini bigrafia
+### Sebastian Sandoval
+
+  Mini bigrafia
