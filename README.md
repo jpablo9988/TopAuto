@@ -25,7 +25,7 @@ TopAuto es un sistema de reseñas y aplicación web que ofrece a los usuarios re
   Mini bigrafia
 ### Manuel Alejandro Rios
 
-  Mini bigrafia
+  Estudiante de Sexto Semestre de la Pontificia Universidad Javeriana en el programa de Ingeniería de Sistemas. Experiencia en C++ y Java, dentro de Java ha utilziado herramientas como Swing en Eclipse para crear interfaces gráficas para programas.
 ### Richard Fonseca
 
   Mini bigrafia
