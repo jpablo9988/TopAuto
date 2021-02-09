@@ -31,4 +31,4 @@ TopAuto es una plataforma de reseñas de vehículos (aplicación web), que brind
   Mini bigrafia
 ### Sebastian Sandoval
 
-  Mini bigrafia
+  Estudiante de Séptimo semestre de Ingeniería de Sistemas de la Universidad Javeriana. Conocimiento básico en lenguajes C/C++, Java, HTMLy SQL. Experiencia en programas cómo Eclipse, dev, codeblocks, Netbeans, Arduino, Enterprise Architect, Lego Mindstorms, sqldeveloper, Visual paradigm, entre otros. 
