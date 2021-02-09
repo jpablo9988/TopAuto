@@ -1,10 +1,10 @@
 # TopAuto
 ## Introducción proyecto:
-TopAuto es un sistema de reseñas y aplicación web que ofrece a los usuarios respuestas ante las innumerables dudas que se tengan sobre los vehículos terrestres. La plataforma online brinda espacios de discución dónde la gente interesada en un vehículo en particular puede resolver sus dudas (Q&A y forums). Además de ser un espacio online donde los futuros compradores de vehículos pueden mirar reseñas basadas en calificaciones reales, los entusiastas de los automoviles pueden consultar la enciclopedia automotríz mas completa de internet: Desde modelos antiguos y ediciones especiales de vehículos, TopAuto promete ofrecer espesificaciones completas e imagenes de calidad.  
+TopAuto es una plataforma de reseñas de vehículos (aplicación web), que brinda espacios de discusión sobre los mismos (Q&A y foros). Además de ser un espacio online en que futuros compradores de vehículos pueden leer reseñas basadas en calificaciones reales, entusiastas de los automóviles pueden consultar la enciclopedia automotriz más completa de Internet: desde modelos antiguos, hasta ediciones especiales de vehículos, TopAuto ofrece especificaciones completas e imágenes de calidad, garantizando una experiencia plena para los interesados.
 ## Presentación del grupo:
 ### Cristobal Castrillón
 
-  Mini bigrafia
+  Estudiante de séptimo semestre de Ing. de Sistemas en la Pontificia Universidad Javeriana. Conocimiento intermedio en lenguajes C/C++ y Java; y básico en HTML, CSS y JavaScript; Python; R; y Flutter (Dart). Interesado en Machine Learning.
 ### Daniel Ricardo Ramirez
 
 
