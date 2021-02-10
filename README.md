@@ -15,7 +15,7 @@ TopAuto es una plataforma de reseñas de vehículos (aplicación web), que brind
    
    Proyectos independientes realizados: 
    - Aplicación móvil para rutinas de entrenamiento
-   - Juego plataformero basico en 2D
+   - Juego plataformero básico en 2D
    - Bot de Instagram personal con Selenium e InstaPy
    
    
