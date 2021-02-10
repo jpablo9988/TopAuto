@@ -29,6 +29,7 @@ TopAuto es una plataforma de reseñas de vehículos (aplicación web), que brind
 ### Richard Fonseca
 
    Estudiante de Sexto Semestre de la Universidad Javeriana en el programa de Ingeniería de Sistemas. Experiencia en C++, Java, SQL y python basico.Interesado en el desarrollo de videojuegos, teniendo Unity y Gamemaker en un nivel bajo.
+   ![imgRichard](https://im3.ezgif.com/tmp/ezgif-3-9139096dbfac.jpg)
 ### Sebastian Sandoval
 
   Estudiante de Séptimo semestre de Ingeniería de Sistemas de la Universidad Javeriana. Conocimiento básico en lenguajes C/C++, Java, HTMLy SQL. Experiencia en programas cómo Eclipse, dev, codeblocks, Netbeans, Arduino, Enterprise Architect, Lego Mindstorms, sqldeveloper, Visual paradigm, entre otros. 
