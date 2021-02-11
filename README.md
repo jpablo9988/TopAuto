@@ -25,7 +25,7 @@ TopAuto es una plataforma de reseñas de vehículos (aplicación web), que brind
 
   Mini bigrafia
   
-  ![image](https://user-images.githubusercontent.com/53922735/107678878-ec7e5400-6c69-11eb-82c9-e13963554da6.png)
+  ![image](https://user-images.githubusercontent.com/53922735/107678984-0750c880-6c6a-11eb-8f74-1d09b522a570.png)
   
 ### Juan Pablo Amorocho
 
