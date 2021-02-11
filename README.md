@@ -24,10 +24,10 @@ TopAuto es una plataforma de reseñas de vehículos (aplicación web), que brind
    ![image](https://user-images.githubusercontent.com/53922735/107558267-91385d00-6ba8-11eb-8ea7-b33b70fa255e.png)
    
 ### Daniel Alejandro Millan
-
-  Mini bigrafia
   
   ![image](https://user-images.githubusercontent.com/53922735/107678984-0750c880-6c6a-11eb-8f74-1d09b522a570.png)
+  
+  Estudiante de sexto semestre de Ingenieria de Sistemas en la Universidad Javeriana de Bogota. Maneja los lenguajes de programacion c, c++, java y progamacion de aplicaciones mobiles. Tambien, esta aprendiendo programacion en Python y perfeccionando programacion en java.
   
 ### Juan Pablo Amorocho
 
