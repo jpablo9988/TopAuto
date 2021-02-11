@@ -25,11 +25,14 @@ TopAuto es una plataforma de reseñas de vehículos (aplicación web), que brind
 
   Mini bigrafia
   
-  ![image](https://user-images.githubusercontent.com/53922735/107678552-8a255380-6c69-11eb-8cef-30968f5ca898.png)
+  ![image](https://user-images.githubusercontent.com/53922735/107678878-ec7e5400-6c69-11eb-82c9-e13963554da6.png)
   
 ### Juan Pablo Amorocho
 
   Mini bigrafia
+  
+  ![image](https://user-images.githubusercontent.com/53922735/107678783-cf498580-6c69-11eb-9779-4084949fdd44.png)
+  
 ### Manuel Alejandro Rios
 
   Estudiante de Sexto Semestre de la Pontificia Universidad Javeriana en el programa de Ingeniería de Sistemas. Experiencia en C++ y Java, dentro de Java ha utilziado herramientas como Swing en Eclipse para crear interfaces gráficas para programas.
