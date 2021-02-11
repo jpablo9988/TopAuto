@@ -31,7 +31,7 @@ TopAuto es una plataforma de reseñas de vehículos (aplicación web), que brind
 
   Mini bigrafia
   
-  ![image](https://user-images.githubusercontent.com/53922735/107678783-cf498580-6c69-11eb-9779-4084949fdd44.png)
+  ![image](https://user-images.githubusercontent.com/53922735/107679108-29e2e180-6c6a-11eb-943e-8cf35bd3f8ea.png)
   
 ### Manuel Alejandro Rios
 
